@@ -31,7 +31,7 @@ ion-content {
     --padding-top: 40%;
     --padding-start: 10%;
     --padding-end: 10%;
-    --background: white 0 0/100% 100% no-repeat;
+    --background: #fff 0 0/100% 100% no-repeat;
 }
 
 .input-group {
@@ -48,4 +48,8 @@ ion-content {
     padding-left: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.colorButton{
+    --background: #9dcfff;
 }
